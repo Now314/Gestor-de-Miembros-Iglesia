@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+
+# Datos privados
+data/
+
+# Recursos privados
+assets/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales
+*.log
+
+# VS Code
+.vscode/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
